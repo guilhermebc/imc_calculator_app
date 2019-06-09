@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.log
@@ -69,14 +68,12 @@
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
-=======
+
 # See https://www.dartlang.org/guides/libraries/private-files
 
-build/
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
 doc/api/
->>>>>>> 1fa97dd5f341d72af7a0bb603f1d0ef69d2c1cb5
